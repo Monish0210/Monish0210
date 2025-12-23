@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monish Patel</h1>
-<h3 align="center">A Passionate Developer and Curious Learner From India</h3>
+<h3 align="center">A Passionate Software Engineer and Curious Learner From India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=monish0210&label=Profile%20views&color=0e75b6&style=flat" alt="monish0210" /> 
@@ -12,8 +12,7 @@
 </p>
 
 ---
-- 🔭 I'm currently working on [StockAtlas](https://github.com/Tejas028/StockAtlas)
-- 🌱 I'm currently learning **OpenCV, TypeScript, Natural Language Processing**
+- 🌱 I'm currently learning **Reinforcement Learning, Cloud Computing, TypeScript, Next.js**
 - 👨‍💻 All of my projects are available at [https://github.com/Monish0210](https://github.com/Monish0210)
 - 📝 I regularly write articles at [https://hashnode.com/@Monish0210](https://hashnode.com/@Monish0210)
 - 💬 Ask me about **Node.js, Express, MongoDB, C++**
